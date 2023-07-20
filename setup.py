@@ -12,7 +12,7 @@ setup(
     author="Javier Choque Paucar",
     author_email="choquepaucarj.social@gmail.com",
     download_url="https://github.com/paucode1/paucode",
-    keywords=["ejemplo", "datascience", "economia", "econometria"],
+    keywords=["example"],
     classifiers=[],
     license="MIT",
     include_package_data=True
